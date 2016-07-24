@@ -11,6 +11,7 @@ public class PreViewActivity extends ActionBarActivity {
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_preview);
+//00000000000000000000000000000001111111111111111111111111111111
 	}
 
 	@Override
